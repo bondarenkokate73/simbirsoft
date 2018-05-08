@@ -103,6 +103,7 @@ namespace ConsoleApplication1
                         }
                         else
                         {
+                            nxn[i1, j1] = igrok;
                             break;
                         }
                     }
@@ -113,7 +114,7 @@ namespace ConsoleApplication1
                     Console.WriteLine("Ошибка:" + ex.Message);
                 }
                 //Заполняем выбранную ячейку выбранным игроком
-                nxn[i1, j1] = igrok;
+                
 
                 //Проверка по строчкам
                 for (int i = 1; i < n; i++)
