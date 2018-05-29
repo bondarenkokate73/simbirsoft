@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище SimbirSoft2ModelContainer" CdmEntityContainer="SimbirSoft2Entities">
+    <EntitySetMapping Name="Hystory">
+      <EntityTypeMapping TypeName="SimbirSoft2Model.Hystory">
+        <MappingFragment StoreEntitySet="Hystory">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Player1" ColumnName="Player1" />
+          <ScalarProperty Name="Player2" ColumnName="Player2" />
+          <ScalarProperty Name="KolvoHod" ColumnName="KolvoHod" />
+          <ScalarProperty Name="Win" ColumnName="Win" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
