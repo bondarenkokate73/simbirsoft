@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SimbirSoft2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Hystory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Player1" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Player2" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="KolvoHod" Type="Int32" Nullable="false" />
+    <Property Name="Win" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SimbirSoft2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Hystory" EntityType="Self.Hystory" />
+  </EntityContainer>
+</Schema>

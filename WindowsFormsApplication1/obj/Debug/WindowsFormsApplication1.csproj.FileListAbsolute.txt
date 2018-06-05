@@ -1,0 +1,74 @@
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.БД.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\EntityFramework.resources.dll
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.БД.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database.mdf
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database_log.ldf
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.БД.resources
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\StubServer.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.ValueTuple.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Web.Http.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Castle.Core.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.pdb
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Moq.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.ValueTuple.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Web.Http.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Екатерина\Desktop\Курсы C#\ДЗ4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
